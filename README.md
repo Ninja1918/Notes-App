@@ -1,2 +1,2 @@
 # Notes Maker Application
- This is an application the will let the users take notes that are saved in the cloud.
+This is a flutter application that will let users take notes that are synced to the cloud(Firebase).
